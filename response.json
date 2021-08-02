@@ -1,0 +1,73 @@
+[{
+        "id": "1",
+        "title": "Lightweight jacket",
+        "price": 250,
+        "img": "/images/card1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Women's Business Suit",
+        "price": 350,
+        "img": "/images/card2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Sweatshirt and shorts",
+        "price": 50,
+        "img": "/images/card3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Sand-colored jeans",
+        "price": 150,
+        "img": "/images/card4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Jacket Blue",
+        "price": 150,
+        "img": "/images/card5.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Striped shirt",
+        "price": 150,
+        "img": "/images/card6.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Ruby shirt",
+        "price": 150,
+        "img": "/images/card7.jpg"
+    },
+    {
+        "id": "8",
+        "title": "White T-shirt",
+        "price": 150,
+        "img": "/images/card8.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Blue baseball cap",
+        "price": 150,
+        "img": "/images/card9.jpg"
+    },
+    {
+        "id": "10",
+        "title": "White business shirt",
+        "price": 150,
+        "img": "/images/card10.jpg"
+    },
+    {
+        "id": "11",
+        "title": "Leather jacket in the style of rock and roll",
+        "price": 150,
+        "img": "/images/card11.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Casual Green Shirt",
+        "price": 150,
+        "img": "/images/card12.jpg"
+    }
+]
